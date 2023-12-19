@@ -1,0 +1,36 @@
+body {
+    background-color: #00797a;
+    color:white;
+  }
+  
+  h1 {
+    color:#ccca34;
+  }
+  
+  .question {
+    color:darkorange;
+  }
+  
+  a {
+    color:white;
+  }
+  
+  #page1 {
+    background-color:#01129e;
+  }
+  
+  #page2 {
+    background-color:#208700;
+  }
+  
+  #page3 {
+    background-color:#ca2c46;
+  }
+  
+  #correct {
+    color: lawngreen;
+  }
+  
+  .incorrect {
+    color: #ffb288;
+  }

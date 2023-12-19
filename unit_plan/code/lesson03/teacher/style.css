@@ -1,0 +1,22 @@
+body {
+    text-align:center;
+    }
+    
+body > div {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    
+div > div {
+      width: 29%;
+      margin-bottom: 2%; /* (100-32*3)/2 */
+      position: relative;
+      
+    }
+    
+img {
+    width:100%;
+    border:10px groove gold;
+    }
+    
