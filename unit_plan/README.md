@@ -70,16 +70,27 @@ Additionally resources used include
 Total length: 2.4 Weeks (12 days)
 
 Lesson 00: History of the Web and How the Web Works
+
 Lesson 01: How to use GitHub
+
 Lesson 02: HTML Syntax and Structure of HTML Documents | Activity: Simple About Me Page
+
 Lesson 03: File Paths and the <img> tag | Activity: My Favorite Things Page
+
 Lesson 04: The <a> tag and Connecting Multiple Webpages | Activity: Trivia/Mini-Quiz Project (Pt. 1)
+
 Lesson 05: CSS Syntax and Selectors | Activity: Trivia/Mini-Quiz Project (Pt. 2)
+
 Lesson 06: Text Styling Using CSS | Activity: Stylizing Dialogue/Scripts
+
 Lesson 07: Positioning and Resizing Using CSS | Activity: Web "Diorama"
+
 Lesson 08: Containers in HTML | Activity: Making a Comic
+
 Lesson 09: Introduction to Personal Website Project | Activity: Working on Personal Website Project
+
 Lesson 10: Working on Personal Website Project (Day 2)
+
 Lesson 11: Working on Personal Website Project (Day 3)
 
 ---
